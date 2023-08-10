@@ -1,6 +1,6 @@
 CARA BERKONTRIBUSI TERHADAP PROJECT
 
-# app-rekomendasi
+# simpel-sistem informasi pelatihan
 Aplikasi Surat Rekomendasi
 
 Untuk berkontribusi terhadap project ini 
