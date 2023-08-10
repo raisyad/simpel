@@ -10,7 +10,11 @@ Untuk berkontribusi terhadap project ini
 2. clone git (jika bisa meggunakan git command bagus ) atau jika bisa menggunakan github desktop
 3. kemudian buka VS Code dan jalankan perintah ini npm install
 4. buat Branch baru bernama develop
-5. ganti nama .env.sample ke .env 
+5. ganti nama .env.sample ke .env
+6. lakukan konfigurasi database pada file.env
+7. Kemudian jalankan command 'npx prisma migrate dev'
+8. import database dari sql yang ada didalam folder db nama db nya (isi database.sql)
+
 
 -----Cara Commit Project-----
 1. untuk fitur baru gunakan feat(namafitur): add ... contoh: feat(login): add api login/ feat(login): add menu login
